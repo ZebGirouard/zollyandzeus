@@ -1,1 +1,18 @@
 /* your styles go here */
+/*Mailchimp*/
+
+#mc_embed_signup form {
+    background: black !important;
+  }
+
+  #mc_embed_signup .button {
+    background-color: teal !important;
+  }
+
+  #mc_embed_signup label {
+    float:left;
+    color: teal;
+  }
+.intro-left-content h1 {
+  color: teal;
+}
